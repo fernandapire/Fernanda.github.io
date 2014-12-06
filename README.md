@@ -2,6 +2,7 @@
 <head>
 <title><p><h1>Tudo sobre Ariana Grande</h1></p></title>
 </head>
+<img src="http://www.etonline.com/media/photo/2014/10/24107907/425_ariana_grande_lionneckl.jpg"/>
 <body><p>A intenção desse quiz é saber o nivel de conhecimento que você tem sobre Ariana Grande. Trago poucas informações para ajuda-los.</p> 
 <p>Ariana Grande-Butera nascida na cidade de Boca Raton, Flórida. Nome dos pais: Joan Grande, e Edward Butera. Irmão: Frankie. Frequentou a North Broward Preparatory School e participou de diversos teatros infantis e da comunidade.</p>
   
