@@ -1,9 +1,9 @@
 <html>
 <head>
-<title>Tudo sobre Ariana Grande</title>
+<title><p>Tudo sobre Ariana Grande</p></title>
 </head>
-<body>A intenção desse quiz é saber o nivel de conhecimento que você tem sobre Ariana Grande. Trago poucas informações para ajuda-los. 
-Ariana Grande-Butera nascida na cidade de Boca Raton, Flórida. Nome dos pais: Joan Grande, e Edward Butera. Irmão: Frankie. Frequentou a North Broward Preparatory School e participou de diversos teatros infantis e da comunidade
+<body><p>A intenção desse quiz é saber o nivel de conhecimento que você tem sobre Ariana Grande. Trago poucas informações para ajuda-los.</p> 
+<p>Ariana Grande-Butera nascida na cidade de Boca Raton, Flórida. Nome dos pais: Joan Grande, e Edward Butera. Irmão: Frankie. Frequentou a North Broward Preparatory School e participou de diversos teatros infantis e da comunidade.</p>
   
 </body>
 
